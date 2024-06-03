@@ -1,4 +1,4 @@
-![image](https://github.com/rhafif-p/responsi-case-1/assets/132448822/571394d8-f927-4a05-8c02-26567ccb9656)# Responsi Senior Project - Studi Kasus 1
+# Responsi Senior Project - Studi Kasus 1
 
 Nama :Rhafif Prasetyo  
 NIU : 477018
